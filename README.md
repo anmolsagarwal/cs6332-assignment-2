@@ -1,6 +1,6 @@
 # Assignment 2
 This is an assignment for my Systems Security and Malicious Code course. 
-I exploited ARM and X86 using buffer overflow vulnerabilities to execute shellcode. 
+I exploited ARM and x86 using buffer overflow vulnerabilities to execute shellcode. 
 
 ## Locations of files
 * *files* 
